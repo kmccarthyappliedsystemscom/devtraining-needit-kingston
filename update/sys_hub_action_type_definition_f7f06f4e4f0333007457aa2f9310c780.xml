@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <description/>
+        <label_cache>[]</label_cache>
+        <latest_snapshot display_value="Look Up Records">38c7af424f4333007457aa2f9310c787</latest_snapshot>
+        <name>Look Up Records</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-05 15:26:33</sys_created_on>
+        <sys_id>f7f06f4e4f0333007457aa2f9310c780</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Look Up Records</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_f7f06f4e4f0333007457aa2f9310c780</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-05 15:56:06</sys_updated_on>
+        <system_level>false</system_level>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=f7f06f4e4f0333007457aa2f9310c780"/>
+    <sys_variable_value action="delete_multiple" query="document_key=f7f06f4e4f0333007457aa2f9310c780"/>
+</record_update>
